@@ -35,7 +35,7 @@ public class LinkIncrementor {
 	}
 	
 	public static String usage(){
-		return "Usage: java LinkGenerator <baseURL> <increment> <amount>";
+		return "Usage: java LinkIncrementor <baseURL> <increment> <amount>";
 	}
 
 }
